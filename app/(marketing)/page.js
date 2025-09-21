@@ -5,7 +5,7 @@ export default function HomePage() {
   return (
     <div id="home">
       <img src={logo.src} alt="A newspaper" />
-      <h1>N News Site For The Next Generation</h1>
+      <h1>NextNews Site For The Next Generation</h1>
       <p>
         Next News is here to feliver you all the latest news - concise &
         unbiased!
